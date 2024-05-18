@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwh2260
 - 👀 I’m interested in MLsys
-- 🌱 I’m currently learning logistic game
+- 🌱 I’m currently learning supply chain game
 - 📫 How to reach me jwh2260@outlook.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwh2260&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
